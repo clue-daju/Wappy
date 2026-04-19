@@ -1,4 +1,4 @@
-# 📱 Wappy
+# Wappy
 
 A curated collection of high-quality wallpapers.
 
